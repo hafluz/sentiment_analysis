@@ -8,7 +8,9 @@
 
 
 ## Project Overview
-The goal of this project was to conduct a sentiment analysis using natural language processing (NLP) models to get insights into the overall sentiment towards ChatGPT on Twitter. A sentiment analysis identifies the emotions in the context of a tweet, extracting subjective information from original data and classifying whether the underlying sentiment is positive, negative our neutral. Thus, providing a better understanding of the social sentiment regarding the matter.
+The goal of this project was to conduct a sentiment analysis using 5 different natural language processing (NLP) models to get insights into the overall sentiment towards ChatGPT on Twitter. A sentiment analysis identifies the emotions in the context of a tweet, extracting subjective information from the original data and classifying whether the underlying sentiment is positive, negative or neutral. Thus, providing a better understanding of the current social sentiment regarding the subject.
+
+Combining and comparing the models' different outputs, the overall sentiment regarding ChatGPT was found to be mostly neutral but slightly more skewed towards positive emotions. The opinions included in the tweets, on the other hand, were very skewed towards subjectivity as opposed to facts.
 
 ### Links
 **Python Code:** [`chatgpt_sentiment_analysis.ipynb`](https://github.com/hafluz/sentiment_analysis/blob/main/Project_3_Twitter_Sentiment_Analysis.ipynb)
