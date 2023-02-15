@@ -13,7 +13,8 @@ The goal of this project was to conduct a sentiment analysis using 5 different n
 Combining and comparing the models' different outputs, the overall sentiment regarding ChatGPT was found to be mostly neutral but slightly more skewed towards positive emotions. The opinions included in the tweets, on the other hand, were very skewed towards subjectivity as opposed to facts.
 
 ### Links
-**Python Code:** [`chatgpt_sentiment_analysis.ipynb`](https://github.com/hafluz/sentiment_analysis/blob/main/Project_3_Twitter_Sentiment_Analysis.ipynb)
+* **Python Code:** [`chatgpt_sentiment_analysis.ipynb`](https://github.com/hafluz/sentiment_analysis/blob/main/Project_3_Twitter_Sentiment_Analysis.ipynb)  
+* **Scrapped Tweets Dataset:** [`sentiment_dataset.csv`](https://github.com/hafluz/sentiment_analysis/blob/main/sentiment_dataset.csv)
 
 ### Methodology
 * Scraping Tweets
